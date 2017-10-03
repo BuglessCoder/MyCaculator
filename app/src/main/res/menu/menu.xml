@@ -1,0 +1,18 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lidawei.mycaculator.MainActivity">
+
+    <item
+        android:title="@string/buttonHelp"
+        android:id="@+id/buttonHelp"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/buttonExit"
+        android:id="@+id/buttonExit"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+</menu>

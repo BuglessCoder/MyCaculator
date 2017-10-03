@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttonLeft">(</string>
+    <string name="buttonRight">)</string>
+    <string name="buttonPlus">+</string>
+    <string name="buttonMinus">-</string>
+    <string name="buttonTimes">*</string>
+    <string name="buttonDivided">/</string>
+    <string name="buttonIs">=</string>
+    <string name="buttonPoint">.</string>
+    <string name="buttonSin">sin</string>
+    <string name="buttonCos">cos</string>
+    <string name="buttonTan">tan</string>
+    <string name="buttonCE">CE</string>
+    <string name="buttonHex">进制转换</string>
+    <string name="buttonUnit">单位转换</string>
+    <string name="buttonMenu">Menu</string>
+    <string name="buttonHelp">Help</string>
+    <string name="buttonExit">Exit</string>
+    <string name="buttonDel">DEL</string>
+    <string name="buttonLog">lg</string>
+    <string name="buttonLn">ln</string>
+    <string name="buttonN">^</string>
+    <string name="HelpInformation">Caculator 1.0 by David Lee</string>
+</resources>
